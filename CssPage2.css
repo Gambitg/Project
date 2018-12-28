@@ -1,0 +1,37 @@
+body{
+  padding: 40px;
+  background: linear-gradient(to right,#02111d,#121414,#02111d);
+}
+
+
+.navbar-light li a {
+  color: #7c7878cc!important;
+
+}
+
+.main-src{
+  padding-top: 50px;
+}
+.Plot {
+  padding-top: 20px;
+}
+.header {
+  text-align: center;
+}
+.raitings{
+    color: #D0D0D0;
+    border: dashed palegoldenrod;
+    float: left;
+    width: 30%;
+    text-align: center;
+}
+
+img{
+
+}
+h3{
+    color:rgb(0, 110, 255);
+}
+h4{
+    color: white;
+}
